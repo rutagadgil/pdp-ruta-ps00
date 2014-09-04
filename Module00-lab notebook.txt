@@ -1,0 +1,21 @@
+Date     Who     Start     Stop     Interruptions     Question                                          Time on Task     Comments
+8/28     RG      10.32     10.36    -                 -            		            		4                CCIS Account Setup
+9/2      RG      18.03     18.22    10                -            		            		9                Discussed with Service HelpDesk
+9/2      RG      18.22     18.30    -                 -            		    	    		8                Installed Office 2013 from myNeu
+9/2      RG      18.30     18.31    -                 -            		    	    		1                Piazza enrolment to be done after CCIS setup is complete
+9/2      RG      18.31     18.34    -                 -            		    	    		3                Racket Installation
+9/2      RG      18.34     18.39    -                 -            		    	    		5                Github Registration
+9/2      RG      18.39     19.06    -                 linking gravatar to github    	    		7                Gravatar Registration
+9/2      RG      19.06     19.21    -                 -            		    	    		15               Github Client Installation
+9/2      RG      19.21     19.25    -                 How to commit laboratory notebook in github   	4
+9/3      RG      15.42     15.46    -                 -            		    	    		4                CCIS Account Setup
+9/3      RG      15.46     15.48    -                 -            		    	    		2                I am here form submission
+9/3      RG      15.48     15.49    -                 -                                     		1                Enrolment for course on Piazza
+9/3      RG      15.49     15.55    -                 -            		    	    		6                Course welcome video and weekly welcome video
+9/3      RG      15.55     16.12    -                 -                             	    		17               Lesson 0.1 Lesson 0.2
+9/3      RG      16.30     16.45    5                 -                                     		10               Lesson 0.3
+9/3      RG      14.41     14.49    -                 -                                                 8                Lesson 0.4 Example 01
+9/3      RG      14.49     14.56    -                 -                                                 7                Lesson 0.4 Example 02
+9/3      RG      14.56     15.12    -                 -                                                 16               Lesson 0.4 Example 03
+9/3      RG      15.12     15.28    -                 -                                                 16               Lesson 0.4 Example 04
+9/3      RG      15.28     15.45    -                 -                                                 17               Lesson 0.4 Example 05; time spent on finding expt function
