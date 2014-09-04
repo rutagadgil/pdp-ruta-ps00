@@ -1,0 +1,7 @@
+The contract purpose statement and examples:
+sq: Number-> Number
+GIVEN: a number as an arguement
+RETURNS: the square of the given number
+Examples:
+(sq 12) => 144
+(sq -2) => 4
