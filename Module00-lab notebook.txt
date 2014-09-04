@@ -19,3 +19,12 @@ Date     Who     Start     Stop     Interruptions     Question                  
 9/3      RG      14.56     15.12    -                 -                                                 16               Lesson 0.4 Example 03
 9/3      RG      15.12     15.28    -                 -                                                 16               Lesson 0.4 Example 04
 9/3      RG      15.28     15.45    -                 -                                                 17               Lesson 0.4 Example 05; time spent on finding expt function
+
+9/4      RG      11.50     12.10    -                 -                                                 20               Lesson 0.5
+9/4      RG      12.10     12.25    2                 -                                                 13               Git video demonstration
+9/4      RG      12.25     13.15    -                 -                                                 50               Github Repository Creation
+9/4      RG      15.35     15.42    -                 -                                                 7                Lesson 0.4 Example 06
+9/4      RG      15.42     15.48    -                 -                                                 6                Lesson 0.4 Example 07
+9/4      RG      15.48     16.02    9                 -                                                 5                Lesson 0.4 Example 08
+9/4      RG      16.02     16.20    -                 -                                                 18               Lesson 0.4 Example 09
+9/4      RG      16.20     16.46    -                 -                                                 26               Lesson 0.4 Example 10; design strategy
