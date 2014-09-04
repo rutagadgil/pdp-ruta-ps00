@@ -1,0 +1,8 @@
+Contract purpose statement and examples are:
+sum-of-largest: Number Number Number -> Number
+GIVEN: three numbers
+RESULTS: Sum of the largest two numbers
+Examples:
+(sum-of-largest 1 2 3) => 5
+(sum-of-largest 1 2 -3) => 3
+(sum-of-largest -1 0 1) => 1

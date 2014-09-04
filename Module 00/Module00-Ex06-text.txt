@@ -1,0 +1,8 @@
+Contract, purpose statement and examples:
+quadratic-root: Number Number Number -> Number
+GIVEN: three numbers that are the constants
+RETURNS: quadratic root of the corresponding quadratic equation
+Examples:
+(quadratic-root 1 4 4) => -2
+(quadratic-root 1 2 1) => -1
+(quadratic-root 1 1 -4) => 1.56

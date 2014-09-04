@@ -1,0 +1,8 @@
+Contract, purpose statement and examples are:
+circle-area : Number-> Number
+GIVEN: the radius of circle
+RETURNS: its area, formula pi*r^2
+Examples:
+(circle-area 1) => 3.14
+(circle-area 5) => 78.53
+(circle-area 7) => 153.938
