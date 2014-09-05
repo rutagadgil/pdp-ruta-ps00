@@ -28,3 +28,12 @@ Date     Who     Start     Stop     Interruptions     Question                  
 9/4      RG      15.48     16.02    9                 -                                                 5                Lesson 0.4 Example 08
 9/4      RG      16.02     16.20    -                 -                                                 18               Lesson 0.4 Example 09
 9/4      RG      16.20     16.46    -                 -                                                 26               Lesson 0.4 Example 10; design strategy
+
+9/5      RG      14.30     14.46    -                 -                                                 15               Misread Example 09; solving remainder example with test case
+9/5      RG      14.46     14.52    -                 -                                                 6                Adding test case to Example 03
+9/5      RG      14.52     14.59    -                 -                                                 7                Adding test case to Example 04
+9/5      RG      14.59     15.03    -                 -                                                 4                Adding test case to Example 05
+9/5      RG      15.03     15.07    -                 -                                                 4                Adding test case to Example 06
+9/5      RG      15.07     15.12    -                 -                                                 5                Adding test case to Example 07
+9/5      RG      15.12     15.15    -                 -                                                 3                Adding test case to Example 08
+9/5      RG      15.15     15.18    -                 -                                                 3                Adding test case to Example 10
