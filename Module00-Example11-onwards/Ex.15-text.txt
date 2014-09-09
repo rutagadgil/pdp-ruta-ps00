@@ -1,0 +1,16 @@
+Ex. 15:
+
+(define-struct student (id name major))
+;; A Student is a (make-student Number String String)
+;; It represents Student details
+;; Interpretation:
+;; id = identification number of the student
+;; name = name of the student
+;; major = major of the student
+
+Functions created:
+make-student
+student?
+student-id
+student-name
+student-major

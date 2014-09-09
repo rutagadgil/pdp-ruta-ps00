@@ -1,0 +1,4 @@
+Ex. 13:
+
+(make-point true false) -> Point is created with x=true y=false
+(point-x (make-point true false)) -> true

@@ -1,0 +1,8 @@
+Ex.12:
+
+(make-point 5 3) -> (make-point 5 3)
+(point? 5) -> false
+(point? true) -> false
+(point? (make-point 2 1)) -> true
+(point-x (make-point 8 5)) -> 8
+(point-y (make-point 42 15)) -> 15

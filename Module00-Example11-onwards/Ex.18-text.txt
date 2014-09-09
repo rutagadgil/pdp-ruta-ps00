@@ -1,0 +1,4 @@
+Contract, purpose statement and examples are:
+rec-sequence : Number -> Rectangle
+GIVEN: any number n
+RETURNS: n th rectangle in the sequence

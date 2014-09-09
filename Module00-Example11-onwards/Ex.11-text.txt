@@ -1,0 +1,7 @@
+Ex. 11:
+
+contract:
+make-point : Number Number -> Point
+point? : Number -> Boolean
+point-x : Point -> Number
+point-y : Point -> Number

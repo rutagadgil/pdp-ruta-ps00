@@ -1,0 +1,9 @@
+Ex. 14:
+
+(define-struct student (id name major))
+Functions created:
+make-student
+student?
+student-id
+student-name
+student-major

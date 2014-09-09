@@ -1,0 +1,15 @@
+Date     Who     Start     Stop     Interruptions     Question                                          Time on Task     Comments
+9/8      RG      14.10     14.33    7                 -            		            		16               structs theorey
+9/8      RG      14.33     14.45    -                 -                                                 12               example 11
+9/8      RG      14.45     14.50    -                 -                                                 5                example 12
+9/8      RG      14.50     14.57    -                 -                                                 7                example 13
+9/8      RG      14.57     15.03    -                 -                                                 6                example 14
+9/8      RG      15.03     15.12    -                 -                                                 9                example 15
+9/8      RG      19.15     19.32    -                 -                                                 17               example 16
+9/8      RG      19.32     19.37    -                 -                                                 5                example 17
+9/8      RG      19.37     19.59    -                 -                                                 22               example 18
+9/8      RG      20.00     20.12    -                 -                                                 12               example 19
+9/8      RG      20.12     20.35    -                 -                                                 23               example 20
+9/8      RG      20.35     21.15    -                 -                                                 40               example 21-misread question
+
+
